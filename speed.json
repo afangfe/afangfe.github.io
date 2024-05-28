@@ -1,24 +1,13 @@
 [	
 	{
-		"year":"2018",
-		"car": "911 GT3RS",
-		"BID": "BV1fA411g7RK",
+		"car": "庞以铮Eason",
 		"Btitle": "300万的911 开起来像“小马力前驱车”？-- 911 GT3RS",
-		"hp": "570",
-		"hp_content": "570",
-		"Powertrain": "4.0/7DCT",
-		"speed": "52.34",
-		"mods": "1",
-		"tyre": "Cup2R",
-		"temperature": "26",
-		"lv": "S",
-		"time": "",
-		"accelerate": "3.29",
-		"limit": "164.96",
-		"powerType":"0",
-		"producer":"2",
-		"nationality":"DE",
-		"price":"226.80"
+		"hp": "2022年9月",
+		"hp_content": "2022年9月",
+		"speed": "？",
+		"tyre": "住宿",
+		"temperature": "语文英语物理化学高数",
+		"price":"男"
 	},
 	{
 		"year":"2017",
