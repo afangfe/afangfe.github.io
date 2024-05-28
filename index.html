@@ -231,21 +231,14 @@
   >
     <td>{{i + 1}}</td>
     <td class="align-left">
-		<div class="icon-flag {{v.nationality}}"></div>
-		{{v.car}}
+		{{v.name}}
 	</td>
-    <td class="t-right">{{v.price}}</td>
-    <td class="t-center">{{v.hp_content}}</td>
-    <td class="blue t-left">{{v.speed | timeFormat}}</td>
+    <td class="t-right">{{v.sex}}</td>
+    <td class="t-center">{{v.enrollement_date}}</td>
+    <td class="blue t-left">{{v.birthday}}</td>
     <td>{{v.tyre}}</td>
-    <td class="t-center">{{v.temperature}}</td>
-    <td class="black">{{v.Powertrain }}</td>
-    <td class="black">{{v.limit}}</td>
-    <td class="black">{{v.accelerate}}</td>
-    <td class="t-center black">{{v.mods}}</td>
-    <td class="align-left">
-      <a href="https://www.bilibili.com/video/{{v.BID}}" target="_blank">{{v.Btitle}}</a>
-        </td>
+    <td class="t-center">{{v.subjects}}</td>
+    <td class="black">{{v.status }}</td>
   </tr>
   {{/each}}
 
