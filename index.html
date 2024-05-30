@@ -240,40 +240,25 @@
 	{{each data as v i}}
 <tr 
   class="
-  {{if v.speed < 69}}
+  {{if v.sex === "男" }}
   speed0
-  {{else if v.speed < 72}}
+  {{else if v.sex === "女"}}
   speed1
-  {{else if v.speed < 74}}
+  {{else}}
   speed2
-  {{else if v.speed < 77}}
-  speed3
-  {{else if v.speed < 80}}
-  speed4
-  {{else if v.speed < 85}}
-  speed5
-  {{else if v.speed > 90}}
-  speed6
   {{/if}}
   "
   >
     <td>{{i + 1}}</td>
-    <td class="align-left">
-		<div class="icon-flag {{v.nationality}}"></div>
-		{{v.car}}
+	<td class="align-left">
+		{{v.name}}
 	</td>
-    <td class="t-right">{{v.price}}</td>
-    <td class="t-center">{{v.hp_content}}</td>
-    <td class="blue t-left">{{v.speed | timeFormat}}</td>
+    <td class="t-right">{{v.sex}}</td>
+    <td class="t-center">{{v.enrollement_date}}</td>
+    <td class="blue t-left">{{v.birthday}}</td>
     <td>{{v.tyre}}</td>
-    <td class="t-center">{{v.temperature}}</td>
-    <td class="black">{{v.Powertrain }}</td>
-    <td class="black">{{v.limit}}</td>
-    <td class="black">{{v.accelerate}}</td>
-    <td class="t-center black">{{v.mods}}</td>
-    <td class="align-left">
-      <a href="https://www.bilibili.com/video/{{v.BID}}" target="_blank">{{v.Btitle}}</a>
-        </td>
+    <td class="t-center">{{v.subjects}}</td>
+    <td class="black">{{v.status }}</td>
   </tr>
   {{/each}}
 
@@ -283,40 +268,25 @@
 	{{each data as v i}}
 <tr 
   class="
-  {{if v.speed < 69}}
+  {{if v.sex === "男" }}
   speed0
-  {{else if v.speed < 72}}
+  {{else if v.sex === "女"}}
   speed1
-  {{else if v.speed < 74}}
+  {{else}}
   speed2
-  {{else if v.speed < 77}}
-  speed3
-  {{else if v.speed < 80}}
-  speed4
-  {{else if v.speed < 85}}
-  speed5
-  {{else if v.speed > 90}}
-  speed6
   {{/if}}
   "
   >
     <td>{{i + 1}}</td>
-    <td class="align-left">
-		<div class="icon-flag {{v.nationality}}"></div>
-		{{v.car}}
+	<td class="align-left">
+		{{v.name}}
 	</td>
-	<td class="t-center">{{v.driver}}</td>
-    <td class="blue t-left">{{v.speed | timeFormat}}</td>
-    <td class="t-center">{{v.hp_content}}</td>
+    <td class="t-right">{{v.sex}}</td>
+    <td class="t-center">{{v.enrollement_date}}</td>
+    <td class="blue t-left">{{v.birthday}}</td>
     <td>{{v.tyre}}</td>
-    <td class="t-center">{{v.temperature}}</td>
-    <td class="black">{{v.Powertrain }}</td>
-    <td class="black">{{v.limit}}</td>
-    <td class="black">{{v.accelerate}}</td>
-    <td class="t-center black">{{v.mods}}</td>
-    <td class="align-left">
-      <a href="https://www.bilibili.com/video/{{v.BID}}" target="_blank">{{v.Btitle}}</a>
-        </td>
+    <td class="t-center">{{v.subjects}}</td>
+    <td class="black">{{v.status }}</td>
   </tr>
   {{/each}}
 
