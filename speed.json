@@ -133,7 +133,7 @@
 		"subjects": "语文英语物理化学数学美术",
 		"sex":"女",
 		"status":"online"
-	}
+	},
 	{
 		"name": "Lily Wu",
 		"enrollement_date": "2024年2月(G11)",
@@ -142,7 +142,7 @@
 		"subjects": "英语物理数学经济",
 		"sex":"女",
 		"status":"online"
-	}
+	},
 	{
 		"name": "Rakeem Lu",
 		"enrollement_date": "2022年9月",
@@ -151,7 +151,7 @@
 		"subjects": "null",
 		"sex":"男",
 		"status":"offline"
-	}
+	},
 	{
 		"name": "Adam Wu",
 		"enrollement_date": "2022年9月",
@@ -160,7 +160,7 @@
 		"subjects": "null",
 		"sex":"男",
 		"status":"offline"
-	}
+	},
 	{
 		"name": "Jimmy Qian",
 		"enrollement_date": "2022年9月",
