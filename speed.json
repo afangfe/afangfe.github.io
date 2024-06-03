@@ -5,7 +5,7 @@
 		"birthday": "11月19日",
 		"type": "住宿",
 		"subjects": "语文数学英语物理化学高数",
-		"sex":"男",
+		"sex":"male",
 		"status":"online"
 	},
 	{
@@ -14,7 +14,7 @@
 		"birthday": "9月8日",
 		"type": "住宿",
 		"subjects": "语文数学英语物理化学",
-		"sex":"女",
+		"sex":"female",
 		"status":"online"
 	},
 	{
@@ -23,7 +23,7 @@
 		"birthday": "2月9日",
 		"type": "住宿",
 		"subjects": "语文数学英语物理化学",
-		"sex":"男",
+		"sex":"male",
 		"status":"online"
 	},
 	{
@@ -32,7 +32,7 @@
 		"birthday": "未知",
 		"type": "住宿",
 		"subjects": "语文英语物理化学数学",
-		"sex":"男",
+		"sex":"male",
 		"status":"offline"
 	},
 	{
@@ -41,7 +41,7 @@
 		"birthday": "未知",
 		"type": "住宿",
 		"subjects": "羽毛球、王者荣耀、食物鉴赏",
-		"sex":"男",
+		"sex":"male",
 		"status":"offline"
 	},
 	{
@@ -50,7 +50,7 @@
 		"birthday": "1月13日",
 		"type": "住宿",
 		"subjects": "语文英语化学数学经济",
-		"sex":"女",
+		"sex":"female",
 		"status":"online"
 	},
 	{
@@ -59,7 +59,7 @@
 		"birthday": "8月1日",
 		"type": "住宿",
 		"subjects": "语文英语物理化学数学经济",
-		"sex":"女",
+		"sex":"female",
 		"status":"online"
 	},
 	{
@@ -68,7 +68,7 @@
 		"birthday": "未知",
 		"type": "住宿",
 		"subjects": "语文英语物理数学计算机",
-		"sex":"男",
+		"sex":"male",
 		"status":"offline"
 	},
 	{
@@ -77,7 +77,7 @@
 		"birthday": "未知",
 		"type": "住宿",
 		"subjects": "语文英语物理数学计算机",
-		"sex":"男",
+		"sex":"male",
 		"status":"offline"
 	},
 	{
@@ -86,7 +86,7 @@
 		"birthday": "未知",
 		"type": "住宿",
 		"subjects": "语文英语物理化学数学",
-		"sex":"男",
+		"sex":"male",
 		"status":"semi-offline"
 	},
 	{
@@ -104,7 +104,7 @@
 		"birthday": "12月12日",
 		"type": "住宿",
 		"subjects": "英语物理化学高数",
-		"sex":"男",
+		"sex":"male",
 		"status":"online"
 	},
 	{
@@ -113,7 +113,7 @@
 		"birthday": "6月30日",
 		"type": "住宿",
 		"subjects": "英语物理化学高数",
-		"sex":"男",
+		"sex":"male",
 		"status":"online"
 	},
 	{
@@ -122,7 +122,7 @@
 		"birthday": "8月28日",
 		"type": "住宿",
 		"subjects": "语文英语物理数学经济",
-		"sex":"女",
+		"sex":"female",
 		"status":"online"
 	},
 	{
@@ -131,7 +131,7 @@
 		"birthday": "12月26日",
 		"type": "住宿",
 		"subjects": "语文英语物理化学数学美术",
-		"sex":"女",
+		"sex":"female",
 		"status":"online"
 	},
 	{
@@ -140,7 +140,7 @@
 		"birthday": "2月20日",
 		"type": "住宿",
 		"subjects": "英语物理数学经济",
-		"sex":"女",
+		"sex":"female",
 		"status":"online"
 	},
 	{
@@ -149,7 +149,7 @@
 		"birthday": "未知",
 		"type": "住宿",
 		"subjects": "null",
-		"sex":"男",
+		"sex":"male",
 		"status":"offline"
 	},
 	{
@@ -158,7 +158,7 @@
 		"birthday": "未知",
 		"type": "住宿",
 		"subjects": "null",
-		"sex":"男",
+		"sex":"male",
 		"status":"offline"
 	},
 	{
@@ -167,7 +167,7 @@
 		"birthday": "未知",
 		"type": "住宿",
 		"subjects": "null",
-		"sex":"男",
+		"sex":"male",
 		"status":"offline"
 	}
 ]
