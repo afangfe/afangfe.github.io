@@ -1,15 +1,15 @@
 [	
 	{
-		"name": "Eason Pang",
-		"enrollement_date": "2022年9月",
-		"birthday": "11月19日",
-		"tyre": "住宿",
-		"subjects": "语文数学英语物理化学高数",
+		"name": "Leo Fang",
+		"enrollement_date": "2022年3月",
+		"birthday": "11月08日",
+		"tyre": "走读",
+		"subjects": "语文数学英语物理化学数学计算机",
 		"sex":"男",
 		"status":"online"
 	},
 	{
-		"name": "Sophia Yuan",
+		"name": "Ricky Zou",
 		"enrollement_date": "2022年9月",
 		"birthday": "9月8日",
 		"tyre": "住宿",
@@ -18,7 +18,7 @@
 		"status":"online"
 	},
 	{
-		"name": "Richard Wu",
+		"name": "Echo lv",
 		"enrollement_date": "2022年9月",
 		"birthday": "2月9日",
 		"tyre": "住宿",
@@ -27,7 +27,7 @@
 		"status":"online"
 	},
 	{
-		"name": "Jerry Wang",
+		"name": "Ruby Zhou",
 		"enrollement_date": "2022年9月",
 		"birthday": "未知",
 		"tyre": "住宿",
@@ -36,7 +36,7 @@
 		"status":"offline"
 	},
 	{
-		"name": "Tommy Zhang",
+		"name": "Travis Zheng",
 		"enrollement_date": "2022年9月",
 		"birthday": "未知",
 		"tyre": "住宿",
@@ -45,7 +45,7 @@
 		"status":"offline"
 	},
 	{
-		"name": "Debbie Liu",
+		"name": "Steven Tian",
 		"enrollement_date": "2022年9月",
 		"birthday": "1月13日",
 		"tyre": "住宿",
@@ -54,7 +54,7 @@
 		"status":"online"
 	},
 	{
-		"name": "Artemis Liu",
+		"name": "Patrick Li",
 		"enrollement_date": "2022年9月",
 		"birthday": "8月1日",
 		"tyre": "住宿",
@@ -63,7 +63,7 @@
 		"status":"online"
 	},
 	{
-		"name": "Jack Yu",
+		"name": "Jacky Gong",
 		"enrollement_date": "2022年9月",
 		"birthday": "未知",
 		"tyre": "住宿",
@@ -72,7 +72,7 @@
 		"status":"offline"
 	},
 	{
-		"name": "Kuroko Zhuang",
+		"name": "Simon Liu",
 		"enrollement_date": "2022年9月",
 		"birthday": "未知",
 		"tyre": "住宿",
@@ -81,7 +81,7 @@
 		"status":"offline"
 	},
 	{
-		"name": "Eric Zhang",
+		"name": "Mandy Guo",
 		"enrollement_date": "2022年9月",
 		"birthday": "未知",
 		"tyre": "住宿",
@@ -90,7 +90,7 @@
 		"status":"semi-offline"
 	},
 	{
-		"name": "Ryan Pan",
+		"name": "Minny Wu",
 		"enrollement_date": "2022年9月",
 		"birthday": "未知",
 		"tyre": "住宿",
@@ -99,7 +99,7 @@
 		"status":"completely-offline"
 	},
 	{
-		"name": "Oscar Qiu",
+		"name": "Willow Liu",
 		"enrollement_date": "2023年8月(G11)",
 		"birthday": "12月12日",
 		"tyre": "住宿",
@@ -108,7 +108,7 @@
 		"status":"online"
 	},
 	{
-		"name": "Joey Xi",
+		"name": "Yolanda Chen",
 		"enrollement_date": "2023年12月(G11)",
 		"birthday": "6月30日",
 		"tyre": "住宿",
@@ -117,7 +117,7 @@
 		"status":"online"
 	},
 	{
-		"name": "Fiona Sheng",
+		"name": "Jerry Liu",
 		"enrollement_date": "2023年10月(G11)",
 		"birthday": "8月28日",
 		"tyre": "住宿",
@@ -126,48 +126,12 @@
 		"status":"online"
 	},
 	{
-		"name": "Ruby Zhou",
+		"name": "Keven",
 		"enrollement_date": "2022年9月",
 		"birthday": "12月26日",
 		"tyre": "住宿",
 		"subjects": "语文英语物理化学数学美术",
 		"sex":"女",
 		"status":"online"
-	},
-	{
-		"name": "Lily Wu",
-		"enrollement_date": "2024年2月(G11)",
-		"birthday": "2月20日",
-		"tyre": "住宿",
-		"subjects": "英语物理数学经济",
-		"sex":"女",
-		"status":"online"
-	},
-	{
-		"name": "Rakeem Lu",
-		"enrollement_date": "2022年9月",
-		"birthday": "未知",
-		"tyre": "住宿",
-		"subjects": "null",
-		"sex":"男",
-		"status":"offline"
-	},
-	{
-		"name": "Adam Wu",
-		"enrollement_date": "2022年9月",
-		"birthday": "未知",
-		"tyre": "住宿",
-		"subjects": "null",
-		"sex":"男",
-		"status":"offline"
-	},
-	{
-		"name": "Jimmy Qian",
-		"enrollement_date": "2022年9月",
-		"birthday": "未知",
-		"tyre": "住宿",
-		"subjects": "null",
-		"sex":"男",
-		"status":"offline"
 	}
 ]
