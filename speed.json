@@ -3,7 +3,7 @@
 		"name": "Eason Pang",
 		"enrollement_date": "2022年9月",
 		"birthday": "11月19日",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "语文数学英语物理化学高数",
 		"sex":"男",
 		"status":"online"
@@ -12,7 +12,7 @@
 		"name": "Sophia Yuan",
 		"enrollement_date": "2022年9月",
 		"birthday": "9月8日",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "语文数学英语物理化学",
 		"sex":"女",
 		"status":"online"
@@ -21,7 +21,7 @@
 		"name": "Richard Wu",
 		"enrollement_date": "2022年9月",
 		"birthday": "2月9日",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "语文数学英语物理化学",
 		"sex":"男",
 		"status":"online"
@@ -30,7 +30,7 @@
 		"name": "Jerry Wang",
 		"enrollement_date": "2022年9月",
 		"birthday": "未知",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "语文英语物理化学数学",
 		"sex":"男",
 		"status":"offline"
@@ -39,7 +39,7 @@
 		"name": "Tommy Zhang",
 		"enrollement_date": "2022年9月",
 		"birthday": "未知",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "羽毛球、王者荣耀、食物鉴赏",
 		"sex":"男",
 		"status":"offline"
@@ -48,7 +48,7 @@
 		"name": "Debbie Liu",
 		"enrollement_date": "2022年9月",
 		"birthday": "1月13日",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "语文英语化学数学经济",
 		"sex":"女",
 		"status":"online"
@@ -57,7 +57,7 @@
 		"name": "Artemis Liu",
 		"enrollement_date": "2022年9月",
 		"birthday": "8月1日",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "语文英语物理化学数学经济",
 		"sex":"女",
 		"status":"online"
@@ -66,7 +66,7 @@
 		"name": "Jack Yu",
 		"enrollement_date": "2022年9月",
 		"birthday": "未知",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "语文英语物理数学计算机",
 		"sex":"男",
 		"status":"offline"
@@ -75,7 +75,7 @@
 		"name": "Kuroko Zhuang",
 		"enrollement_date": "2022年9月",
 		"birthday": "未知",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "语文英语物理数学计算机",
 		"sex":"男",
 		"status":"offline"
@@ -84,7 +84,7 @@
 		"name": "Eric Zhang",
 		"enrollement_date": "2022年9月",
 		"birthday": "未知",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "语文英语物理化学数学",
 		"sex":"男",
 		"status":"semi-offline"
@@ -93,7 +93,7 @@
 		"name": "Ryan Pan",
 		"enrollement_date": "2022年9月",
 		"birthday": "未知",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "英语经济化学物理高数",
 		"sex":"不可定义",
 		"status":"completely-offline"
@@ -102,7 +102,7 @@
 		"name": "Oscar Qiu",
 		"enrollement_date": "2023年8月(G11)",
 		"birthday": "12月12日",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "英语物理化学高数",
 		"sex":"男",
 		"status":"online"
@@ -111,7 +111,7 @@
 		"name": "Joey Xi",
 		"enrollement_date": "2023年12月(G11)",
 		"birthday": "6月30日",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "英语物理化学高数",
 		"sex":"男",
 		"status":"online"
@@ -120,7 +120,7 @@
 		"name": "Fiona Sheng",
 		"enrollement_date": "2023年10月(G11)",
 		"birthday": "8月28日",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "语文英语物理数学经济",
 		"sex":"女",
 		"status":"online"
@@ -129,7 +129,7 @@
 		"name": "Ruby Zhou",
 		"enrollement_date": "2022年9月",
 		"birthday": "12月26日",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "语文英语物理化学数学美术",
 		"sex":"女",
 		"status":"online"
@@ -138,7 +138,7 @@
 		"name": "Lily Wu",
 		"enrollement_date": "2024年2月(G11)",
 		"birthday": "2月20日",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "英语物理数学经济",
 		"sex":"女",
 		"status":"online"
@@ -147,7 +147,7 @@
 		"name": "Rakeem Lu",
 		"enrollement_date": "2022年9月",
 		"birthday": "未知",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "null",
 		"sex":"男",
 		"status":"offline"
@@ -156,7 +156,7 @@
 		"name": "Adam Wu",
 		"enrollement_date": "2022年9月",
 		"birthday": "未知",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "null",
 		"sex":"男",
 		"status":"offline"
@@ -165,7 +165,7 @@
 		"name": "Jimmy Qian",
 		"enrollement_date": "2022年9月",
 		"birthday": "未知",
-		"tyre": "住宿",
+		"type": "住宿",
 		"subjects": "null",
 		"sex":"男",
 		"status":"offline"

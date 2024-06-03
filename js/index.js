@@ -201,12 +201,12 @@ $(function () {
   //   });
   // })
   // // 轮胎
-  // $('.tyre .icon').click(function () {
+  // $('.type .icon').click(function () {
   //   layer.open({
   //     type: 1,
   //     shade: false,
   //     title: false,
-  //     content: $('.tips-content-tyre'),
+  //     content: $('.tips-content-type'),
   //   });
   // })
   // // 尾速
