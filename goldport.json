@@ -10,20 +10,20 @@
 	},
 	{
 		"name": "Ricky Zou",
-		"enrollement_date": "2022年9月",
-		"birthday": "9月8日",
+		"enrollement_date": "2022年3月",
+		"birthday": "未知",
 		"type": "住宿",
-		"subjects": "语文数学英语物理化学",
-		"sex":"female",
+		"subjects": "语文数学英语物理艺术",
+		"sex":"male",
 		"status":"online"
 	},
 	{
 		"name": "Echo lv",
-		"enrollement_date": "2022年9月",
-		"birthday": "2月9日",
+		"enrollement_date": "2022年4月",
+		"birthday": "11月19日",
 		"type": "住宿",
-		"subjects": "语文数学英语物理化学",
-		"sex":"male",
+		"subjects": "语文数学英语经济",
+		"sex":"female",
 		"status":"online"
 	},
 	{
@@ -37,101 +37,101 @@
 	},
 	{
 		"name": "Travis Zheng",
-		"enrollement_date": "2022年9月",
+		"enrollement_date": "2023年9月",
 		"birthday": "未知",
 		"type": "住宿",
-		"subjects": "羽毛球、王者荣耀、食物鉴赏",
+		"subjects": "吴文英语数学物理经济",
 		"sex":"male",
 		"status":"offline"
 	},
 	{
 		"name": "Steven Tian",
-		"enrollement_date": "2022年9月",
-		"birthday": "1月13日",
+		"enrollement_date": "2023年9月",
+		"birthday": "未知",
 		"type": "住宿",
-		"subjects": "语文英语化学数学经济",
-		"sex":"female",
-		"status":"online"
+		"subjects": "语文英语化学物理数学",
+		"sex":"male",
+		"status":"offline"
 	},
 	{
 		"name": "Patrick Li",
-		"enrollement_date": "2022年9月",
-		"birthday": "8月1日",
+		"enrollement_date": "2023年9月",
+		"birthday": "未知",
 		"type": "住宿",
 		"subjects": "语文英语物理化学数学经济",
-		"sex":"female",
+		"sex":"male",
 		"status":"online"
 	},
 	{
 		"name": "Jacky Gong",
-		"enrollement_date": "2022年9月",
+		"enrollement_date": "2023年9月",
 		"birthday": "未知",
 		"type": "住宿",
-		"subjects": "语文英语物理数学计算机",
+		"subjects": "语文英语数学",
 		"sex":"male",
 		"status":"offline"
 	},
 	{
 		"name": "Simon Liu",
-		"enrollement_date": "2022年9月",
-		"birthday": "未知",
+		"enrollement_date": "2023年9月",
+		"birthday": "10月26日",
 		"type": "住宿",
-		"subjects": "语文英语物理数学计算机",
+		"subjects": "吉祥物",
 		"sex":"male",
-		"status":"offline"
+		"status":"online"
 	},
 	{
 		"name": "Mandy Guo",
-		"enrollement_date": "2022年9月",
-		"birthday": "未知",
+		"enrollement_date": "2023年9月",
+		"birthday": "12月29日",
 		"type": "住宿",
-		"subjects": "语文英语物理化学数学",
+		"subjects": "语文英语数学艺术",
 		"sex":"male",
-		"status":"semi-offline"
+		"status":"online"
 	},
 	{
 		"name": "Minny Wu",
-		"enrollement_date": "2022年9月",
+		"enrollement_date": "2024年9月(G10)",
 		"birthday": "未知",
 		"type": "住宿",
-		"subjects": "英语经济化学物理高数",
-		"sex":"不可定义",
-		"status":"completely-offline"
+		"subjects": "英语数学经济物理",
+		"sex":"female",
+		"status":"online"
 	},
 	{
 		"name": "Willow Liu",
-		"enrollement_date": "2023年8月(G11)",
-		"birthday": "12月12日",
+		"enrollement_date": "2023年8月(G10)",
+		"birthday": "未知",
 		"type": "住宿",
-		"subjects": "英语物理化学高数",
-		"sex":"male",
+		"subjects": "英语数学艺术",
+		"sex":"female",
 		"status":"online"
 	},
 	{
 		"name": "Yolanda Chen",
-		"enrollement_date": "2023年12月(G11)",
-		"birthday": "6月30日",
+		"enrollement_date": "2023年12月(G10)",
+		"birthday": "7月8日",
 		"type": "住宿",
-		"subjects": "英语物理化学高数",
-		"sex":"male",
+		"subjects": "英语物理化学数学",
+		"sex":"female",
 		"status":"online"
 	},
 	{
 		"name": "Jerry Liu",
-		"enrollement_date": "2023年10月(G11)",
-		"birthday": "8月28日",
+		"enrollement_date": "2023年10月(G10)",
+		"birthday": "12月26日",
 		"type": "住宿",
 		"subjects": "语文英语物理数学经济",
-		"sex":"female",
+		"sex":"male",
 		"status":"online"
 	},
 	{
-		"name": "Keven",
+		"name": "Keven Zhan",
 		"enrollement_date": "2022年9月",
-		"birthday": "12月26日",
+		"birthday": "未知",
 		"type": "住宿",
-		"subjects": "语文英语物理化学数学美术",
-		"sex":"female",
-		"status":"online"
+		"subjects": "语文英语物理化学数学经济",
+		"sex":"male",
+		"status":"offline"
 	}
 ]
